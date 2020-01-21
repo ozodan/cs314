@@ -1,0 +1,29 @@
+body {
+    background: firebrick;
+    
+    color: #f0f009;
+    
+}
+header {
+    background-color: brown;
+}
+#content {
+    
+    background-color: firebrick;
+    margin: 10px;
+}
+footer {
+    background-color: darkgray;
+    color: darkblue;
+    text-align: center;
+   }
+
+#main{
+    background-color: firebrick;
+    width: 100%;
+    
+    
+}
+.center_image{
+    text-align: center;
+}
